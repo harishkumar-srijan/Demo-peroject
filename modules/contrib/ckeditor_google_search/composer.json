@@ -1,0 +1,17 @@
+{
+    "name": "drupal/ckeditor_google_search",
+    "description": "Integrates the CKEditor 4 Google Search plugin.",
+    "license": "GPL-2.0+",
+    "authors": [
+        {
+            "name": "Nitesh Sinha",
+            "homepage": "https://www.drupal.org/u/nitesh624",
+            "role": "Maintainer"
+        }
+    ],
+    "require": {},
+    "support": {
+        "issues": "https://www.drupal.org/project/issues/ckeditor_google_search",
+        "source": "https://git.drupalcode.org/project/ckeditor_google_search.git"
+    }
+}
